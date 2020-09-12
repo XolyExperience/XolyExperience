@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Frontend Developer, and Student!
 
-- 🔭 I’m currently working on a my own skills!
+- 🔭 I’m currently working on my own skills!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me **Beff.Henriksson@live.se**
